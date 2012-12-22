@@ -1,0 +1,88 @@
+body {
+	
+	background-color:#f4f4f4;
+}
+
+*{
+	
+}
+
+.navbar{
+	display:block;
+
+	
+}
+.nav{
+	float:right;
+	margin:0 auto ;
+	
+	height:35px;
+	background:#ccc;
+	margin-top:30px;
+	
+}
+
+
+.news{
+	
+	padding-top:100px;
+}
+
+header #logo {
+	float:left;
+	margin-top:28px;
+	
+}
+
+header {
+	background: none repeat scroll 0 0 white;
+	position:auto;
+	padding-bottom: 25px;
+	width:100%;
+	top:0;
+	z-index: 100;
+	margin-bottom:200px;
+	
+}
+.nav ul {
+	width:960px;
+	height:35px;
+	
+}
+
+.nav  li {
+	
+	float:left;
+	list-style: none;
+	padding:0 30px;
+	background:red;
+	line-height: 35px;
+	text-align:center;
+	
+}
+
+
+
+
+
+.footerwrap {
+border-top: 1px solid #DFDFDF;
+padding-top: 20px;
+float: none;
+clear: both;
+}
+
+ #footer .c1, #footer .c2,#footer .c3, #footer .c4 {
+	float:left;
+	padding-right:40px;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	
+}
+
+#footer li {
+font-size: 13px;
+line-height: 16px;
+padding: 0 0 8px 0;
+color: #888;
+margin-bottom: 0;
+}
