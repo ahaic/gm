@@ -56,12 +56,12 @@
  <nav id="navigation" class="clearfix" role="navigation">
       <div id="main-menu">
         <ul class="menu">
-<li class="first leaf"><a href="<?php echo site_url('')?>" class="active">Home</a></li>
+<li class="leaf"><a href="<?php echo site_url('drupal')?>" class="active">Home</a></li>
 
-<li class="leaf"><a href="<?php echo site_url('drupal')?>/floor_plan">Floor Plan</a></li>
-<li class="last leaf"><a href="<?php echo site_url('drupal')?>/display_location">Display Location</a></li>
+<li class="leaf"><a href="<?php echo  site_url('floor_plan')?>">Floor Plan</a></li>
+<li class="leaf"><a href="<?php echo site_url('display_location')?>">Display Location</a></li>
 
-<li class="leaf"><a href="<?php echo site_url('drupal')?>/contact" title="">Contact</a></li>
+<li class="leaf"><a href="<?php echo site_url('contact')?>">Contact</a></li>
 </ul>     
  </div>
     </nav>
