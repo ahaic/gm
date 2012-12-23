@@ -9,9 +9,7 @@
   <div class="content node-page">
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items">
     <div class="field-item even" property="content:encoded">
-    <p>asdf sf asfdf asdf sf asf sdf asdf sf  s sf asf sdf asdf sf a
-    s
-         f</p>
+    <p>asdf f</p>
 </div></div></div>  </div>
 
       <footer>
