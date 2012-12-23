@@ -1,10 +1,10 @@
-
-  
-  
-  
-  <div id="main">
+<div id="main">
     <section id="post-content" role="main">
-    <div id="breadcrumbs"><h2 class="element-invisible">You are here</h2><nav class="breadcrumb"><a href="/drupal/">Home</a> » About </nav></div>                <h1 class="page-title">About </h1>                                            
+    
+    <nav class="breadcrumb"><a href="/drupal/">Home</a> » Floor Plan</nav>
+    </div>   
+    
+           <h1 class="page-title">About </h1>                                            
       
     
   <div class="content node-page">

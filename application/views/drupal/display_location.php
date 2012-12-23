@@ -1,4 +1,8 @@
-
+<div id="main">
+    <section id="post-content" role="main">
+    
+    <nav class="breadcrumb"><a href="/drupal/">Home</a> »Display Location</nav>
+    </div>   
 <div class="google_map" >
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
 src="https://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=perth&amp;
