@@ -58,10 +58,10 @@
         <ul class="menu">
 <li class="leaf"><a href="<?php echo site_url('drupal')?>" class="active">Home</a></li>
 
-<li class="leaf"><a href="<?php echo  site_url('drupal')?>floor_plan">Floor Plan</a></li>
-<li class="leaf"><a href="<?php echo site_url('drupal')?>display_location">Display Location</a></li>
+<li class="leaf"><a href="<?php echo  site_url('drupal')?>/floor_plan">Floor Plan</a></li>
+<li class="leaf"><a href="<?php echo site_url('drupal')?>/display_location">Display Location</a></li>
 
-<li class="leaf"><a href="<?php echo site_url('drupal')?>contact" title="">Contact</a></li>
+<li class="leaf"><a href="<?php echo site_url('drupal')?>/contact" title="">Contact</a></li>
 </ul>     
  </div>
     </nav>
