@@ -61,7 +61,7 @@
 <li class="leaf"><a href="<?php echo base_url()?>floor_plan">Floor Plan</a></li>
 <li class="last leaf"><a href="<?php echo base_url()?>display_location">Display Location</a></li>
 
-<li class="leaf"><a href="<?php echo base_url()?>contact" title="">Contact</a></li>
+<li class="leaf"><a href="<?php echo site_url('drupal')?>contact" title="">Contact</a></li>
 </ul>     
  </div>
     </nav>
