@@ -40,7 +40,7 @@
 
 
 
-$route['default_controller'] = '';
+$route['default_controller'] = 'drupal';
 //$route['(:any)'] = 'pages/view/$1';
 
 

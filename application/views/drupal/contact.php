@@ -12,9 +12,9 @@
      
     <h1 class="page-title">Contact</h1>                   
    
- <h2> G&M Construction </h2>
+ <br> G&M Construction </br>
  
- <h2>Perth, WA, Australia</h2>
- <h2>Tel:00000000</h2>
+ <br>Perth, WA, Australia<br>
+ <br>Tel:00000000</br>
    
  

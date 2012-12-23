@@ -71,7 +71,7 @@
     <div class="clear"></div>
   <div id="copyright">
       Copyright &copy; 2012, G&amp;M Construction. &nbsp;&nbsp;Perth,WA,Asutralia
-              <span class="credits">Maintained  by  <a href="http://23.19.58.119/drupal/?q=user">G&M</a>.</span>
+              <span class="credits">Maintained  by  <a href="ahaic.lofter.com">ahaic</a>.</span>
       </div>
   </div>
   </body>
