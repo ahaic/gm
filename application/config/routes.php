@@ -43,5 +43,7 @@
 $route['default_controller'] = 'drupal';
 //$route['(:any)'] = 'pages/view/$1';
 
+
+
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
