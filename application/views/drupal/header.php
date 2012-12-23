@@ -3,17 +3,29 @@
 <head>
 <meta charset="utf-8" />
 
+
 <title>Welcome to G&amp;M Construction | G&amp;M Construction</title>
+
+
+
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>/assets/business/style.css" charset="utf-8"/>  
+
 
 <script type="text/javascript" src="http://23.19.58.119/drupal/misc/jquery.js?v=1.4.4"></script>
 <script type="text/javascript" src="http://23.19.58.119/drupal/misc/jquery.once.js?v=1.2"></script>
 <script type="text/javascript" src="http://23.19.58.119/drupal/misc/drupal.js?mdohm1"></script>
 
+
+
+
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/sliding_effect.js"></script>
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/superfish.js?mdohm1"></script>
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/supersubs.js?mdohm1"></script>
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/sfmenu.js?mdohm1"></script>
+
+
+
+
 
 
 <!--[if lt IE 9]><script src="/drupal/sites/all/themes/business/js/html5.js"></script><![endif]-->
@@ -46,15 +58,15 @@
         <ul class="menu">
 <li class="leaf"><a href="<?php echo site_url('drupal')?>" class="active">Home</a></li>
 
-<li class="leaf"><a href="<?php echo  site_url('floor_plan')?>">Floor Plan</a></li>
-<li class="leaf"><a href="<?php echo site_url('display_location')?>">Display Location</a></li>
+<li class="leaf"><a href="<?php echo  site_url('drupal')?>/floor_plan">Floor Plan</a></li>
+<li class="leaf"><a href="<?php echo site_url('drupal')?>/display_location">Display Location</a></li>
 
-<li class="leaf"><a href="<?php echo site_url('contact')?>">Contact</a></li>
+<li class="leaf"><a href="<?php echo site_url('drupal')?>/contact" title="">Contact</a></li>
 </ul>     
  </div>
     </nav>
     
- 
+    
     
     <!-- end main-menu -->
   </header>
