@@ -35,7 +35,7 @@
              <a href="/drupal/" title="Home"><img src="<?php echo base_url()?>assets/business/logo.png" alt="Home" /></a>
         </div>
             <hgroup id="sitename">
-        <h2><a href="<?php echo site_url('drupal')?>" title="Home">G&amp;M Construction</a></h2>
+        <h2><a href="<?php echo site_url('')?>" title="Home">G&amp;M Construction</a></h2>
         <p>a construction company</p><!--site slogan-->
       </hgroup>
     </div>
