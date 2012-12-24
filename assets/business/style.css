@@ -654,8 +654,6 @@ li.sfHover > a > .sf-sub-indicator {
   display: inline;
   margin: 0;
   
-/* --add ---*/  
-  width:100%; 
 }
 
 body.sidebar-first #post-content {
