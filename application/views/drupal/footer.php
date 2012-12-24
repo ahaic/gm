@@ -25,7 +25,7 @@
         <h2 >We are on</h2>
     
   <div class="content">
-    <ul><li>Twitter</li>
+    <ul><li><a href="twitter.com">Twitter</a></li>
 <li>Facebook</li>
 <li>Google +</li>
 </ul>  </div>

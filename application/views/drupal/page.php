@@ -1,3 +1,5 @@
+<!--   This page is header for ohter pages except home -->
+
 <!DOCTYPE html>
 
 <head>
