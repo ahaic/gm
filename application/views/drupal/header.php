@@ -18,6 +18,7 @@
 
 <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
+
 </head>
 
 
@@ -32,7 +33,7 @@
 
     <div>
              <div id="logo">
-             <a href="/drupal/" title="Home"><img src="<?php echo base_url()?>assets/business/logo.png" alt="Home" /></a>
+             <a href="<?php echo site_url('')?>" title="Home"><img src="<?php echo base_url()?>assets/business/logo.png" alt="Home" /></a>
         </div>
             <hgroup id="sitename">
         <h2><a href="<?php echo site_url('')?>" title="Home">G&amp;M Construction</a></h2>
@@ -44,12 +45,12 @@
  <nav id="navigation" class="clearfix" role="navigation">
       <div id="main-menu">
         <ul class="menu">
-<li class="leaf"><a href="<?php echo site_url('')?>" class="active">Home</a></li>
+<li class="first leaf"><a href="<?php echo site_url('')?>" class="active">Home</a></li>
 
 <li class="leaf"><a href="<?php echo  site_url('floor_plan')?>">Floor Plan</a></li>
 <li class="leaf"><a href="<?php echo site_url('display_location')?>">Display Location</a></li>
 
-<li class="leaf"><a href="<?php echo site_url('contact')?>">Contact</a></li>
+<li class="last leaf"><a href="<?php echo site_url('contact')?>">Contact</a></li>
 </ul>     
  </div>
     </nav>
