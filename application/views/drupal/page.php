@@ -1,31 +1,26 @@
 <!--   This page is header for ohter pages except home -->
-
 <!DOCTYPE html>
-
 <head>
 <meta charset="utf-8" />
-
-
 <title>Welcome to G&amp;M Construction | G&amp;M Construction</title>
-
-
-
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>/assets/business/style.css" charset="utf-8"/>  
 
-
-
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/sliding_effect.js"></script>
+
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/superfish.js?mdohm1"></script>
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/supersubs.js?mdohm1"></script>
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/sfmenu.js?mdohm1"></script>
 
 
 
+<script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/query.once.js?v=1.2"></script>
+<script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/drupal.js?mdohm1"></script>
 
 
 
-<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 </head>
 
