@@ -653,7 +653,7 @@ li.sfHover > a > .sf-sub-indicator {
 #post-content {
   display: inline;
   margin: 0;
-  
+  width:100%;
 }
 
 body.sidebar-first #post-content {

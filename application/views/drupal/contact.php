@@ -5,7 +5,7 @@
 <div id="main">
     <section id="post-content" role="main">
     
-    <nav class="breadcrumb"><a href="/drupal/">Home</a> » Contact</nav>
+    <nav class="breadcrumb"><a href="<?php echo site_url('')?>">Home</a> » Contact</nav>
     </div>               
      
      
