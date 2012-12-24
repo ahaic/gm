@@ -653,6 +653,9 @@ li.sfHover > a > .sf-sub-indicator {
 #post-content {
   display: inline;
   margin: 0;
+  
+/* --add ---*/  
+  width:100%; 
 }
 
 body.sidebar-first #post-content {
@@ -670,6 +673,8 @@ body.sidebar-first #post-content {
 
 #post-content h1 {
   margin-bottom: 0px;
+ 
+        
 }
 
 .page-title {
