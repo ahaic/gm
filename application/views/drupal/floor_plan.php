@@ -5,17 +5,16 @@
 <div id="main">
     <section id="post-content" role="main">
     
-    <nav class="breadcrumb"><a href="/drupal/">Home</a> » Contact</nav>
+    <nav class="breadcrumb"><a href="<?php echo site_url('')?>">Home</a> » Contact</nav>
     </div>               
      
      
      
-    <h1 class="page-title">Contact</h1>                   
+    <h1 >Floor Plan</h1>                   
    
- <br> G&M Construction </br>
+ <br> Floor Plan1 </br>
  
- <br>Perth, WA, Australia<br>
- <br>Tel:00000000</br>
+
    
  
  
