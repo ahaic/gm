@@ -76,5 +76,5 @@
   </div>
   </body>
   
-  <a href="ahaic.lofter.com">ahaic</a>
+  <a href="http://ahaic.lofter.com">ahaic</a>
 </html>
