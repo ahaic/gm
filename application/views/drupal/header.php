@@ -16,7 +16,7 @@
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/sfmenu.js?mdohm1"></script>
 
 
-<!--[if lt IE 9]><script src="/drupal/sites/all/themes/business/js/html5.js"></script><![endif]-->
+[if lt IE 9]><script src="/drupal/sites/all/themes/business/js/html5.js"></script><![endif]
 
 </head>
 
