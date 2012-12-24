@@ -6,9 +6,9 @@
 <title>Welcome to G&amp;M Construction | G&amp;M Construction</title>
 <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>/assets/business/style.css" charset="utf-8"/>  
 
-<script type="text/javascript" src="http://23.19.58.119/drupal/misc/jquery.js?v=1.4.4"></script>
-<script type="text/javascript" src="http://23.19.58.119/drupal/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="http://23.19.58.119/drupal/misc/drupal.js?mdohm1"></script>
+<script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/query.once.js?v=1.2"></script>
+<script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/drupal.js?mdohm1"></script>
 
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/sliding_effect.js"></script>
 <script type="text/javascript" src="<?php echo base_url()?>/assets/business/js/superfish.js?mdohm1"></script>

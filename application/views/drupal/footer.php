@@ -71,10 +71,10 @@
     <div class="clear"></div>
   <div id="copyright">
       Copyright &copy; 2012, G&amp;M Construction. &nbsp;&nbsp;Perth,WA,Asutralia
-              <span class="credits">Maintained  by  <a href="ahaic.lofter.com">ahaic</a>.</span>
+              <span class="credits">Maintained  by  <a href="http://ahaic.lofter.com">ahaic</a>.</span>
       </div>
   </div>
   </body>
   
-  <a href="http://ahaic.lofter.com">ahaic</a>
+ 
 </html>
