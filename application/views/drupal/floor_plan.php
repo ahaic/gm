@@ -21,6 +21,9 @@
 				
 				
 		</script>
+        
+        <!--  END --------------------------------->
+        
 
 <body>
 <!-- not really needed, i'm using it to center the gallery. -->
@@ -36,6 +39,7 @@
                     
    
  <br> G&M Construction </br>
+ <div class="row">
  
 <div class="pikachoose">
 Styled without images. Pure CSS.
@@ -51,7 +55,9 @@ Styled without images. Pure CSS.
 
 
 
-<hr /><p>
+</div>
+
+<div class="row">
 
 <div class="pikachoose">
 Styled without images. Pure CSS.
@@ -64,7 +70,7 @@ Styled without images. Pure CSS.
         </span></li>
 	</ul>
 </div>
-
+</div>
 </div> <!-- end of wrap -->
 
 </body>

@@ -1,4 +1,12 @@
 /*if you just want to adjust the size of the stage and the thumbnails, you can do so by editing the following lines: */
+
+<!-- control slides picture -->
+
+.row {
+	margin-top:30px;
+}
+
+<!-- end -->
 .pika-thumbs li{width: 144px; height:74px;}
 .pika-stage {height: 250px;}
 
