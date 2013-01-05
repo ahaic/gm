@@ -22,10 +22,10 @@
 				
 		</script>
 
+<body>
+<!-- not really needed, i'm using it to center the gallery. -->
 
-
-
-
+<div class="wrap">
 <div id="main">
     <section id="post-content" role="main">
     
@@ -37,15 +37,6 @@
    
  <br> G&M Construction </br>
  
-
-
-		
-</head>
-<body>
-<!-- not really needed, i'm using it to center the gallery. -->
-
-<div class="wrap">
-
 <div class="pikachoose">
 Styled without images. Pure CSS.
 
