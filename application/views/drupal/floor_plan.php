@@ -28,7 +28,7 @@
 <body>
 <!-- not really needed, i'm using it to center the gallery. -->
 
-<div class="wrap">
+
 <div id="main" class="clearfix">
     <section id="post-content" role="main">
     
@@ -39,6 +39,8 @@
                     
    
  <br> G&M Construction </br>
+ 
+ 
  <div class="row">
  
 <div class="pikachoose">
