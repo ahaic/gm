@@ -1,33 +1,4 @@
 
-		<link type="text/css" href="<?php echo base_url()?>assets/business/pikachoose/styles/css3.css" rel="stylesheet" />
-		<script type="text/javascript" src=" https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.js"></script>
-        <script type="text/javascript" src="<?php echo base_url()?>assets/business/pikachoose/lib/jquery.jcarousel.min.js"></script>
-		<script type="text/javascript" src="<?php echo base_url()?>assets/business/pikachoose/lib/jquery.pikachoose.js"></script>
-		
-        <script type="text/javascript" src="<?php echo base_url()?>assets/business/pikachoose/lib/jquery.fancybox-1.3.4.pack.js"></script> 
-   		<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/business/pikachoose/styles/jquery.fancybox-1.3.3.css.css" media="screen" />
-		
-		<script language="javascript">
-		
-			$(document).ready(function (){
-				var a =function(self){
-					self.anchor.fancybox();
-				};
-				
-					$("#pikame").PikaChoose({buildFinished:a});
-					$("#pikama").PikaChoose({buildFinished:a});
-					
-				});
-				
-				
-		</script>
-        
-        <!--  END --------------------------------->
-        
-
-<body>
-<!-- not really needed, i'm using it to center the gallery. -->
-
 
 <div id="main" class="clearfix">
     <section id="post-content" role="main">
