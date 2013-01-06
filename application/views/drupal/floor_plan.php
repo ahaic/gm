@@ -25,7 +25,15 @@
 </div>
 
 <div class="house_details">
-House Details
+<h1>House Details</h1>
+<ul>
+<li> LIVING: 303.82 sqm </li>
+<li>GARAGE: 47.00 sqm </li>
+<li>OUTDOOR: 76.62 sqm</li>
+<li>TOTAL AREA: 427.44 sqm </li>
+<li>WIDTH: 19.000 m </li>
+<li>DEPTH: 23.000 m </li>
+</ul>
 </div>
 
 </div> <!-- end of row -->
