@@ -1,11 +1,7 @@
-
-
-
 <div id="main" class="clearfix">
-  
-    
+   
     <nav class="breadcrumb"><a href="<?php echo site_url('')?>">Home</a> » Floor Plan</nav>
-</div>               
+ </div>               
   
  <br> G&M Construction </br>
 
@@ -36,7 +32,9 @@
 <li>TOTAL AREA: 427.44 sqm </li>
 <li>WIDTH: 19.000 m </li>
 <li>DEPTH: 23.000 m </li>
+<li> <a href="#" >Download More Info </a></li>
 </ul>
+
 </div>
 
 </div> <!-- end of row -->
@@ -65,6 +63,7 @@
 <li>TOTAL AREA: 427.44 sqm </li>
 <li>WIDTH: 19.000 m </li>
 <li>DEPTH: 23.000 m </li>
+<li> <a href="#" >Download More Info </a></li>
 </ul>
 </div>
 

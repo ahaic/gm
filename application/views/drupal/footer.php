@@ -2,6 +2,7 @@
     <div class="clear"></div>
     
       <div id="footer-saran" class="clearfix">
+ 
      <div id="footer-wrap">
             <div class="footer-box"><div class="region region-footer-first">
   <div id="block-block-2" class="block block-block">
@@ -71,7 +72,7 @@
     <div class="clear"></div>
   <div id="copyright">
       Copyright &copy; 2012, G&amp;M Construction. &nbsp;&nbsp;Perth,WA,Asutralia
-              <span class="credits">Maintained  by  <a href="http://ahaic.lofter.com">ahaic</a>.</span>
+              <span class="credits">Maintained  by  <a href="mailto:hansoncao@hotmail.com">ahaic</a>.</span>
       </div>
   </div>
   </body>
