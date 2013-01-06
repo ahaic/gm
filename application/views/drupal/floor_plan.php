@@ -14,6 +14,24 @@
  
  <div class="row">
  
+ 		
+		<script language="javascript">
+		
+			$(document).ready(function (){
+				var a =function(self){
+					self.anchor.fancybox();
+				};
+				
+					$("#pikame").PikaChoose({buildFinished:a});
+					$("#pikama").PikaChoose({buildFinished:a});
+					
+				});
+				
+				
+		</script>
+        <!-- end o f -->
+
+ 
 <div class="pikachoose">
 Styled without images. Pure CSS.
 
