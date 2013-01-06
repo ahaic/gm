@@ -39,15 +39,19 @@
 				var a =function(self){
 					self.anchor.fancybox();
 				};
-					$("#pikama").PikaChoose({carousel:true});
+					
 					$("#pikame").PikaChoose({buildFinished:a});
 					$("#pikama").PikaChoose({buildFinished:a});
-				
-					
-				});
-				
-				
+				});		
 		</script>
+        
+        <script language="javascript">
+			$(document).ready(
+				function (){
+					$("#pikama").PikaChoose({carousel:true});
+				});
+		</script>
+
         
 
 
