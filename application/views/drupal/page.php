@@ -40,8 +40,8 @@
 					self.anchor.fancybox();
 				};
 					
-					$("#pikame").PikaChoose({buildFinished:a});
-					$("#pikame").PikaChoose({carousel:true});
+					$("#pikame").PikaChoose({buildFinished:a}{carousel:true});
+					
 					$("#pikama").PikaChoose({buildFinished:a});
 				});		
 		</script>
