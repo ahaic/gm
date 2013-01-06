@@ -11,7 +11,8 @@
                     
    
  <br> G&M Construction </br>
- 
+
+<div class="row" >  
 <div class="pikachoose">
 
 
@@ -23,7 +24,7 @@
 	</ul>
 </div>
 
-
+</div>
 
 </body>
 </html>
