@@ -12,7 +12,12 @@ a{color:white;}
 
 /******added  below*****/
 
-.row{overflow:auto;}
+.row{
+	overflow:auto;
+	margin-bottom:50px;
+	
+	
+	}
 
 .house_details{
 	
