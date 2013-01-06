@@ -41,16 +41,12 @@
 				};
 					
 					$("#pikame").PikaChoose({buildFinished:a});
+					$("#pikame").PikaChoose({carousel:true});
 					$("#pikama").PikaChoose({buildFinished:a});
 				});		
 		</script>
         
-        <script language="javascript">
-			$(document).ready(
-				function (){
-					$("#pikame").PikaChoose({carousel:true});
-				});
-		</script>
+    
 
         
 
