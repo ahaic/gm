@@ -29,23 +29,8 @@
 		
         <script type="text/javascript" src="<?php echo base_url()?>assets/business/pikachoose/lib/jquery.fancybox-1.3.4.pack.js"></script> 
    		<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/business/pikachoose/styles/jquery.fancybox-1.3.3.css.css" media="screen" />
-		
-		<script language="javascript">
-		
-			$(document).ready(function (){
-				var a =function(self){
-					self.anchor.fancybox();
-				};
-				
-					$("#pikame").PikaChoose({buildFinished:a});
-					$("#pikama").PikaChoose({buildFinished:a});
-					
-				});
-				
-				
-		</script>
-        <!-- end o f -->
 
+<!----END -floor plan js css -->
 
 
 
