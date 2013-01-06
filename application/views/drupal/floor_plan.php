@@ -2,10 +2,10 @@
 
 
 <div id="main" class="clearfix">
-    <section id="post-content" role="main">
+  
     
     <nav class="breadcrumb"><a href="<?php echo site_url('')?>">Home</a> » Floor Plan</nav>
-    </div>               
+</div>               
      
      
                     
@@ -24,10 +24,6 @@
 </div>
 
 
-
-
-
-</div> <!-- end of wrap -->
 
 </body>
 </html>
