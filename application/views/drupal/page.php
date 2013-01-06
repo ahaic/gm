@@ -44,10 +44,6 @@
 					$("#pikama").PikaChoose({buildFinished:a});
 				});		
 		</script>
-        
-      
-
-        
 
 
 </head>
