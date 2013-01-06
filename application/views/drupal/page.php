@@ -40,13 +40,12 @@
 					self.anchor.fancybox();
 				};
 					
-					$("#pikame").PikaChoose({buildFinished:a}{carousel:true});
-					
+					$("#pikame").PikaChoose({buildFinished:a ,carousel:true });
 					$("#pikama").PikaChoose({buildFinished:a});
 				});		
 		</script>
         
-    
+      
 
         
 
