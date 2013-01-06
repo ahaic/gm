@@ -17,7 +17,35 @@
         <tr>
             <td width="120" align="center"><img border="0" alt="" width="79" height="120" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Tencent_QQ.png/64px-Tencent_QQ.png"></td>
             <td valign="middle">
-            <p><span><strong><a href="http://www.uq.edu.au/pharmacy/nick-shaw">Professor Nick Shaw</a><br>
+            <p><span><strong><a href="#">Professor Nick Shaw</a><br>
+            <br>
+            Head of School</strong></span><span><br>
+            Room 7008, Level 7,  Australia<br>
+            Phone: +61 7-334-61701; Fax: +61 7-334-61999<br>
+            Email: Personal :&nbsp; <a href="mailto:c.kovacevic@pharmacy.uq.edu.au">example@money.com</a></span></p>
+            </td>
+        </tr>
+    </tbody>
+    
+    <tbody>
+        <tr>
+            <td width="120" align="center"><img border="0" alt="" width="79" height="120" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Tencent_QQ.png/64px-Tencent_QQ.png"></td>
+            <td valign="middle">
+            <p><span><strong><a href="#">Professor Nick Shaw</a><br>
+            <br>
+            Head of School</strong></span><span><br>
+            Room 7008, Level 7,  Australia<br>
+            Phone: +61 7-334-61701; Fax: +61 7-334-61999<br>
+            Email: Personal :&nbsp; <a href="mailto:c.kovacevic@pharmacy.uq.edu.au">example@money.com</a></span></p>
+            </td>
+        </tr>
+    </tbody>
+    
+    <tbody>
+        <tr>
+            <td width="120" align="center"><img border="0" alt="" width="79" height="120" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Tencent_QQ.png/64px-Tencent_QQ.png"></td>
+            <td valign="middle">
+            <p><span><strong><a href="#">Professor Nick Shaw</a><br>
             <br>
             Head of School</strong></span><span><br>
             Room 7008, Level 7,  Australia<br>
