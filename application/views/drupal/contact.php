@@ -11,7 +11,7 @@
  <br> G&M Construction </br>
  
 
-<div class="staff">
+<div class="staff" style="float:left">
 <table border="0" cellspacing="1" summary="" cellpadding="1" width="648" height="128" style="width: 600px; height: 128px">
     <tbody>
         <tr>
