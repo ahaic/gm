@@ -58,5 +58,18 @@
         </tr>
     </tbody>
 </table>
-   
+
+ </div>
+ 
+ <div class="company">
+
+            <p><span><strong><a href="#">Professor Nick Shaw</a><br>
+            <br>
+            Head of School</strong></span><span><br>
+            Address: Room 7008, Level 7,  Australia<br>
+            Phone: +61 7-334-61701; <br>
+            Fax: +61 7-334-61999<br>
+            Email: Personal :&nbsp; <a href="mailto:c.kovacevic@pharmacy.uq.edu.au">example@money.com</a></span></p>
+
+ 
  </div>
