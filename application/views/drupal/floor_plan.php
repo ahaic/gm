@@ -49,6 +49,10 @@
 		<li><a href="<?php echo base_url()?>assets/business/pikachoose/2.jpg"><img src="<?php echo base_url()?>assets/business/pikachoose/2.jpg"/></a><span>jCarousel is supported and can be integrated with PikaChoose!</span></li>
 		<li><a href="<?php echo base_url()?>assets/business/pikachoose/3.jpg"><img src="<?php echo base_url()?>assets/business/pikachoose/3.jpg"/></a><span>Be sure to check out for updates.
         </span></li>
+        <li><a href="<?php echo base_url()?>assets/business/pikachoose/4.jpg"><img src="<?php echo base_url()?>assets/business/pikachoose/3.jpg"/></a><span>Be sure to check out for updates.
+        </span></li>
+        <li><a href="<?php echo base_url()?>assets/business/pikachoose/5.jpg"><img src="<?php echo base_url()?>assets/business/pikachoose/3.jpg"/></a><span>Be sure to check out for updates.
+        </span></li>
 	</ul>
 </div>
 

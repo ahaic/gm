@@ -22,9 +22,9 @@
  <!-----floor plan js css -->
 
 
-		<link type="text/css" href="<?php echo base_url()?>assets/business/pikachoose/styles/css3.css" rel="stylesheet" />
-		<script type="text/javascript" src=" https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.js"></script>
-        <script type="text/javascript" src="<?php echo base_url()?>assets/business/pikachoose/lib/jquery.jcarousel.min.js"></script>
+<link type="text/css" href="<?php echo base_url()?>assets/business/pikachoose/styles/css3.css" rel="stylesheet" />
+<script type="text/javascript" src=" https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.js"></script>
+<script type="text/javascript" src="<?php echo base_url()?>assets/business/pikachoose/lib/jquery.jcarousel.min.js"></script>
 		<script type="text/javascript" src="<?php echo base_url()?>assets/business/pikachoose/lib/jquery.pikachoose.js"></script>
 		
         <script type="text/javascript" src="<?php echo base_url()?>assets/business/pikachoose/lib/jquery.fancybox-1.3.4.pack.js"></script> 
