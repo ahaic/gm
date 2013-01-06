@@ -48,7 +48,7 @@
         <script language="javascript">
 			$(document).ready(
 				function (){
-					$("#pikama").PikaChoose({carousel:true});
+					$("#pikame").PikaChoose({carousel:true});
 				});
 		</script>
 
