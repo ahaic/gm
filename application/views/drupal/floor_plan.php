@@ -16,7 +16,7 @@
 
 
 <div class="pikachoose">
-	<ul id="pikame" >
+	<ul id="pikame"   class="jcarousel-skin-pika" >
 		<li><a href="#"><img src="<?php echo base_url()?>assets/business/pikachoose/1.jpg"/></a><span>This is an example of the basic theme.</span></li>
 		<li><a href="http://www.pikachoose.com"><img src="<?php echo base_url()?>assets/business/pikachoose/2.jpg"/></a><span>jCarousel is supported and can be integrated with PikaChoose!</span></li>
 		<li><a href="http://www.pikachoose.com"><img src="<?php echo base_url()?>assets/business/pikachoose/3.jpg"/></a><span>Be sure to check out for updates.
@@ -47,7 +47,7 @@
 
 
 <div class="pikachoose">
-	<ul id="pikama" >
+	<ul id="pikama"  class="jcarousel-skin-pika" >
 		<li><a href="<?php echo base_url()?>assets/business/pikachoose/1.jpg"><img src="<?php echo base_url()?>assets/business/pikachoose/1.jpg"/></a><span>This is an example of the basic theme.</span></li>
 		<li><a href="<?php echo base_url()?>assets/business/pikachoose/2.jpg"><img src="<?php echo base_url()?>assets/business/pikachoose/2.jpg"/></a><span>jCarousel is supported and can be integrated with PikaChoose!</span></li>
 		<li><a href="<?php echo base_url()?>assets/business/pikachoose/3.jpg"><img src="<?php echo base_url()?>assets/business/pikachoose/3.jpg"/></a><span>Be sure to check out for updates.
