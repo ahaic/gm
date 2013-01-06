@@ -13,9 +13,9 @@
  <br> G&M Construction </br>
 
 <div class="row" >  
+
+
 <div class="pikachoose">
-
-
 	<ul id="pikame" >
 		<li><a href="#"><img src="<?php echo base_url()?>assets/business/pikachoose/1.jpg"/></a><span>This is an example of the basic theme.</span></li>
 		<li><a href="http://www.pikachoose.com"><img src="<?php echo base_url()?>assets/business/pikachoose/2.jpg"/></a><span>jCarousel is supported and can be integrated with PikaChoose!</span></li>
