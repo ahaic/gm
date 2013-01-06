@@ -41,6 +41,7 @@
 				};
 				
 					$("#pikame").PikaChoose({buildFinished:a});
+					$("#pikamf").PikaChoose({buildFinished:a});
 				
 					
 				});
