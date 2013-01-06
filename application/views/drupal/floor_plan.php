@@ -24,7 +24,9 @@
 	</ul>
 </div>
 
-
+<div class="house_details">
+House Details
+</div>
 
 </div> <!-- end of row -->
 
