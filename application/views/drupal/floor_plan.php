@@ -1,21 +1,4 @@
-
-
-<div id="main" class="clearfix">
-    <section id="post-content" role="main">
-    
-    <nav class="breadcrumb"><a href="<?php echo site_url('')?>">Home</a> » Floor Plan</nav>
-    </div>               
-     
-     
-                    
-   
- <br> G&M Construction </br>
- 
- 
- <div class="row">
- 
- 		
-		<script language="javascript">
+ 	<script language="javascript">
 		
 			$(document).ready(function (){
 				var a =function(self){
@@ -31,9 +14,24 @@
 		</script>
         <!-- end o f -->
 
+
+
+<div id="main" class="clearfix">
+    <section id="post-content" role="main">
+    
+    <nav class="breadcrumb"><a href="<?php echo site_url('')?>">Home</a> » Floor Plan</nav>
+    </div>               
+     
+     
+                    
+   
+ <br> G&M Construction </br>
  
+ 
+
+
+
 <div class="pikachoose">
-Styled without images. Pure CSS.
 
 
 	<ul id="pikame" >
@@ -46,7 +44,6 @@ Styled without images. Pure CSS.
 
 
 
-</div>
 
 <div class="row">
 
