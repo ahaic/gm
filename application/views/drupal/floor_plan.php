@@ -24,6 +24,7 @@
 	</ul>
 </div>
 
+
 <div class="house_details">
 <ul>
 <li> A </li>
