@@ -39,7 +39,7 @@
 				var a =function(self){
 					self.anchor.fancybox();
 				};
-				
+					$("#pikama").PikaChoose({carousel:true});
 					$("#pikame").PikaChoose({buildFinished:a});
 					$("#pikama").PikaChoose({buildFinished:a});
 				
