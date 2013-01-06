@@ -24,7 +24,14 @@
 	</ul>
 </div>
 
+<div class="house_details">
+<ul>
+<li> A </li>
+<li>B </li>
+</ul>
 </div>
+
+</div> <!-- end of row -->
 
 </body>
 </html>
