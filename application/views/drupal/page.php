@@ -41,7 +41,7 @@
 				};
 					
 					$("#pikame").PikaChoose({buildFinished:a ,carousel:true });
-					$("#pikama").PikaChoose({buildFinished:a});
+					$("#pikama").PikaChoose({buildFinished:a,carousel:true });
 				});		
 		</script>
 
