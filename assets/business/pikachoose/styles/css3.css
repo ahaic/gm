@@ -26,7 +26,11 @@ a{color:white;}
 /******added * above****/
 
 
-.pikachoose {width: 500px; } /*  margin: 0 auto;  */
+.pikachoose {
+	width: 500px; 
+	float:left;   /*added**/
+
+} /*  margin: 0 auto;  */
 
 
 
