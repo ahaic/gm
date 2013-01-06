@@ -12,27 +12,6 @@
    
  <br> G&M Construction </br>
  
- 
- 
- 	<script language="javascript">
-		
-			$(document).ready(function (){
-				var a =function(self){
-					self.anchor.fancybox();
-				};
-				
-					$("#pikame").PikaChoose({buildFinished:a});
-				
-					
-				});
-				
-				
-		</script>
-        <!-- end o f -->
-
-
-
-
 <div class="pikachoose">
 
 

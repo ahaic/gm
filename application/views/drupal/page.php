@@ -33,6 +33,26 @@
    		<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/business/pikachoose/styles/jquery.fancybox-1.3.3.css.css" media="screen" />
 
 <!----END -floor plan js css -->
+ 
+ 
+ 	<script language="javascript">
+		
+			$(document).ready(function (){
+				var a =function(self){
+					self.anchor.fancybox();
+				};
+				
+					$("#pikame").PikaChoose({buildFinished:a});
+				
+					
+				});
+				
+				
+		</script>
+        
+
+
+
 
 </head>
 
